@@ -8,6 +8,4 @@ salto en la cantidad de funciones exagerado siendo que cuando n = 5, el total de
 
 Viendo este resultado y los tiempos de ejecucion nos damos cuenta de la ventaja que se obtiene al utilizar un computador cuantico a la hora de cumplir con estas tareas en especifico.
 
-Todo el codigo esta documentado, pero ademas quiero añadir que una parte del mismo esta basada en el proyecto de github: https://github.com/MyEntangled/MyEntangled-Blog/blob/master/Quantum%20Programming%20Projects/Deutsch-Jozsa%20algorithm.ipynb
-
-Solo queda añadir que la unica libreria necesaria para correr el programa es numpy.
+Todo el codigo esta comentado. Solo queda añadir que la unica libreria necesaria para correr el programa es numpy.
